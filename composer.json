@@ -4,8 +4,8 @@
     "license": "MIT",
 
     "require": {
-        "phpunit/php-code-coverage": "^4.0.4",
-        "behat/behat":               "^3.0.0"
+        "phpunit/php-code-coverage": "^7.0.12",
+        "behat/behat":               "^3.6.1"
     },
 
     "autoload": {
